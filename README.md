@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
 
-<img src="TicTacToe_End.PNG">
-<img src="TicTacToe_Win.PNG">
+<img src="/images/TicTacToe_Over.PNG">
+<img src="/images/TicTacToe_Win.PNG">
